@@ -10,6 +10,15 @@
 - **TypeScript**
 - **Functional Programming**
 
+
+---
+
+## 🛠️ My Tech Stack
+- Frontend: **React, TypeScript, HTML, CSS**
+- Backend: **Node.js, Express.js**
+- Tools & Libraries: **Redux, Tailwind CSS, Material UI**
+- Version Control: **Git, GitHub**
+
 ---
 
 ## 🎓 Certifications
@@ -33,26 +42,19 @@
 
 ---
 
-## 🛠️ My Tech Stack
-- Frontend: **React, TypeScript, HTML, CSS**
-- Backend: **Node.js, Express.js**
-- Tools & Libraries: **Redux, Tailwind CSS, Material UI**
-- Version Control: **Git, GitHub**
-
----
-
 ## 📈 GitHub Stats
-![Pruthviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+![Pruthviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Earth98&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Earth98&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Earth98&repo=pruthviraj)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/pruthviraj-sinh-5a3522173/)
 
 ---
+<!--- Your favorite quote or personal motto here. --->
 
-> "Your favorite quote or personal motto here."
+> "" 
 
 ---
 
